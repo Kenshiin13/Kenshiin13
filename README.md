@@ -20,3 +20,7 @@
   <img src="./icons/mongodb.svg" width="48" height="48" alt="MongoDB" />&nbsp;&nbsp;
   <img src="./icons/redis.svg" width="48" height="48" alt="Redis" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kenshiin13&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
